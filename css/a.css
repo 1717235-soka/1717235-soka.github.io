@@ -1,0 +1,54 @@
+@charset"utf-8";
+
+input[type="submit"]{
+    
+    
+    border: 2px solid #0086F9;
+    bordrer-radius: 4px;
+    background: linear-gradient(0deg, #ff3333, #ff6666 );
+    color: #FFF;
+}
+
+input[type="reset"]{
+    
+    
+    border: 2px solid #0086F9;
+    bordrer-radius: 4px;
+    background: linear-gradient(0deg, #ffcc00, #ccff66 );
+    color: #FFF;
+}
+
+/*input[type="button"]{
+    
+    
+    border: 2px solid #0086F9;
+    bordrer-radius: 4px;
+  /* background: linear-gradient(0deg, #ff3333, #ff6666 ); */ 
+    color: #003;
+}*/
+/*.box1{
+    margin-left: 4%
+     width: 70%;
+    float: left;
+    //height:1000px;
+    height: auto;
+    
+    background-color: mediumaquamarine; */
+   /* text-align: center */
+    
+}
+.box1{
+    margin-left: 10%;
+        width:70%;
+    float: left;
+    height: 600px;
+    background-color: aquamarine;
+}
+
+.box2{
+   /* margin-left: 4%; */
+    width: 30%;
+    float: left;
+    height: 600px;
+    background-color: chartreuse;
+}

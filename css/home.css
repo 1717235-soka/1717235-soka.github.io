@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+ul{
+   list-style:none;
+}
+
+#top{
+    color: cornflowerblue;
+}
+.red{
+    color: red;
+    font-size:3em;
+        
+}
+.text-center{
+    text-align:center;
+
+}

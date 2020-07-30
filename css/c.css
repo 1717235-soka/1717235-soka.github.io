@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+//tr:first-child{
+    background-color: red;
+}
+//tr:last-child{
+    background-color: blue;
+}
+//tr:nth-child(odd){
+    background-color: snow;
+}
+//tr:nth-child(even){
+    background-color: aquamarine;
+}
+tr:first-of-type{
+    background-color: azure
+}
+th:first-of-type{
+    background-color: papayawhip
+}
+td:last-of-type{
+   background-color: snow
+}
